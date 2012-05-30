@@ -11,7 +11,7 @@
 $home_page = 'yes';
 include ($offset.'includes/header.php'); ?>
 <div class="content">
-
+This is a test.
 <div id="slider-wrapper">
     <div id="slider" class="nivoSlider">
         <a href="<?php echo $domain ?>"><img src="img/what-is-mini-ivf.png" alt="" /></a>
