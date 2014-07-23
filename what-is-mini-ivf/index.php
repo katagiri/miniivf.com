@@ -5,6 +5,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>What is Mini-IVF&trade;?</title>
 <?php include ($offset.'includes/links.php'); ?>
+<meta name="keywords" content="Minimal Stimulation IVF, Minimal Stimulation In Vitro Fertilization, gentle IVF, light IVF, green IVF, New Hope Fertiltiy's customized Mini-IVF&trade;" />
+<meta name="description" content="Learn more about Minimal Stimulation IVF." />
 </head>
 <body>
 <?php include ($offset.'includes/header.php'); ?>
@@ -14,7 +16,7 @@
     
     <p><strong>What do you do now?</strong>  You've heard of the countless things woman try to help them become fertile again.  Some women try their hand at yoga to inspire fertility, while others make a huge change to their diet in hopes that they might get pregnant on their own.  "But I already exercise and I already eat healthy," you may think, and although you know about in vitro fertilization, you don't like the idea of daily injections or high doses of fertility medications.  What now?</p>
     
-    <p>Minimal Stimulation IVF, or Mini-IVF&trade;, is for women looking for a more holistic approach to their fertility treatment.  Mini-IVF&trade; centers around the naturally occurring physiology of the woman's reproductive system, requiring no hormone injections and a small amount of oral medication to stimulate egg production in the ovaries.  The few eggs produced from a woman's Mini-IVF&trade; cycle are always higher quality than the abundance of eggs produced through conventional IVF, which can often hyperstimulate the ovaries and can lead to issues like OHSS.  The minimal amount of medications used for Mini-IVF&trade; also make this method of assisted reproduction more cost effective for those looking for a more affordable fertility treatment option.</p>
+    <p><a href="http://www.newhopefertility.com/?topic=minimal-stimulation-mini-ivf" target="_blank">Minimal Stimulation IVF</a>, or Mini-IVF&trade;, is for women looking for a more holistic approach to their fertility treatment.  Mini-IVF&trade; centers around the naturally occurring physiology of the woman's reproductive system, requiring no hormone injections and a small amount of oral medication to stimulate egg production in the ovaries.  The few eggs produced from a woman's Mini-IVF&trade; cycle are always higher quality than the abundance of eggs produced through conventional IVF, which can often hyperstimulate the ovaries and can lead to issues like OHSS.  The minimal amount of medications used for Mini-IVF&trade; also make this method of assisted reproduction more cost effective for those looking for a more affordable fertility treatment option.</p>
     </div>
 	<?php include ($offset.'includes/contact-form.php'); ?>
 	<div class="clear"></div>

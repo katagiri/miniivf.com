@@ -5,12 +5,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 <title>Why choose Mini-IVF&trade;?</title>
 <?php include ($offset.'includes/links.php'); ?>
+<meta name="keywords" content="Minimal Stimulation IVF, Minimal Stimulation In Vitro Fertilization, gentle IVF, light IVF, green IVF, New Hope Fertiltiy's customized Mini-IVF&trade;" />
+<meta name="description" content="Find out if you are a good candidate for Minimal Stimulation IVF and why someone would choose to have this treatment." />
 </head>
 <body>
 <?php include ($offset.'includes/header.php'); ?>
 <div class="content">
 	<div class="page">
-    <p>With all of the advances in assisted reproductive technology, it only makes sense that simultaneous changes be made to the way IVF is administered to women and couples dealing with infertility.  No single IVF method is suitable for all women -- some women's reproductive systems become overwhelmed with conventional IVF, whereas other women are not able to get pregnant using methods like Natural Cycle IVF or IUI.  Mini-IVF&trade; beidges the gap between those women with high FSH levels or low follicle counts that need conventional IVF and those who can achieve a successful pregnancy through simple monitoring with Natural Cycle IVF.</p>
+    <p>Why would I choose a <a href="http://www.newhopefertility.com/?topic=minimal-stimulation-mini-ivf" target="_blank">minimal-stimulation IVF protocal</a>? With all of the advances in assisted reproductive technology, it only makes sense that simultaneous changes be made to the way IVF is administered to women and couples dealing with infertility.  No single IVF method is suitable for all women -- some women's reproductive systems become overwhelmed with conventional IVF, whereas other women are not able to get pregnant using methods like Natural Cycle IVF or IUI.  Mini-IVF&trade; beidges the gap between those women with high FSH levels or low follicle counts that need conventional IVF and those who can achieve a successful pregnancy through simple monitoring with Natural Cycle IVF.</p>
     
     <p>Mini-IVF&trade; is also a great fertility treatment option for more healthy and financially conscious individuals.  The absence of injectable fertility drugs during Mini-IVF™ cycles serves to make this form of infertility treatment more affordable and less invasive on the body's naturally occurring functions.</p>
     

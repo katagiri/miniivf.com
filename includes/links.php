@@ -1,4 +1,4 @@
-<?php $domain = 'http://www.miniivf.com'; ?>
+<?php $domain = 'http://www.minimalstimulation.com'; ?>
 <!-- FAVICON -->   
 <link rel="icon" type="image/png" href="<?php echo $domain ?>/img/favicon.png" />
 <link rel="shortcut icon" href="<?php echo $domain ?>/img/favicon.ico"/>
@@ -32,4 +32,4 @@
   })();
 </script>
 
-<?php session_start(); ?>
+<?php // session_start(); ?>

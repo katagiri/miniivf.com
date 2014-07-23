@@ -3,7 +3,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Mini-IVF&trade; || Minimal Stimulation IVF</title>
+<title>Minimal Stimulation IVF || Mini-IVF&trade; || Gentle, customized and successful IVF treatments</title>
+<meta name="keywords" content="Minimal Stimulation IVF, Minimal Stimulation In Vitro Fertilization, gentle IVF, light IVF, green IVF, New Hope Fertiltiy's customized Mini-IVF&trade;" />
+<meta name="description" content="This site is dedicated to Minimal Stimulation IVF and improving the treatment and the patient experience for women who struggle with infertility." />
 <?php include ($offset.'includes/links.php'); ?>
 </head>
 <body>

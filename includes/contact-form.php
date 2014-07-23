@@ -6,7 +6,7 @@
         <input id="last" name="last" />
         <input id="email" name="email" />
         <input id="phone" name="phone" />
-        <select id="preferred">
+        <select id="preferred" name="preferred">
             <option value="N/A">Contact Preference</option>
             <option>Phone</option>
             <option>Email</option>
